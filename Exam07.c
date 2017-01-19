@@ -4,7 +4,7 @@
 
 int main (void) {
 
-	/*
+	
 	int num = 0;
 	while (num < 5)
 	{
@@ -238,7 +238,7 @@ scanf("%d %d", &i,&j);
  	tot+=i;
  }
 printf("합계는 %d입니다.", tot);
-*/
+
 
 //문2. 다음 수식인 계승(factorial)을 계산하는 프로그램을 작성해보자.
 //n! = 1X2X3X...Xn

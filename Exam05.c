@@ -1,5 +1,5 @@
 //상수와 기본 자료형
-/*
+
 #include <stdio.h>
 
 int mian(void) {
@@ -108,4 +108,3 @@ int mian(void) {
 	return 0;
 }
 
-*/

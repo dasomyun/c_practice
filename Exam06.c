@@ -1,5 +1,5 @@
 //06. prinf함수와 scanf함수 정리하기
-/*
+
 #include <stdio.h>
 
 int main(void) {
@@ -29,4 +29,3 @@ int main(void) {
 	return 0;
 
 }
-*/

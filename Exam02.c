@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 
 int main(void) {
@@ -15,4 +15,3 @@ int main(void) {
 	printf("%dx%d=%d\n", 7, 9, 63);
 	return 0;
 }
-*/

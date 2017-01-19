@@ -1,5 +1,5 @@
 //데이터 표현방식의 이해
-/*
+
 #include  <stdio.h>
 
 int main(void)
@@ -17,4 +17,3 @@ int main(void)
 
 	return 0;
 }
-*/
